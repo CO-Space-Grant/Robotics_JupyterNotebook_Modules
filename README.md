@@ -17,6 +17,6 @@ Module 7 - Robotic Perception and Control
 
 Module 8 - State Localization, Mapping, and Motion Planning
 
-Module 9 - 
+Module 9 - Computer Vision for Object Detection
 
 Module 10 - 
