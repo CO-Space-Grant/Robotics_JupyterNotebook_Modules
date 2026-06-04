@@ -13,7 +13,7 @@ Module 5 - Advanced Sensing
 
 Module 6 - Advanced Robotics Techniques to Explore
 
-Module 7 - 
+Module 7 - Robotic Perception and Control
 
 Module 8 - 
 
