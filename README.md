@@ -9,7 +9,7 @@ Module 3 - Basic Motion
 
 Module 4 - Basic Sensing
 
-Module 5 -
+Module 5 - Advanced Sensing
 
 Module 6 - 
 
