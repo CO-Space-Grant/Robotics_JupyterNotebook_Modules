@@ -11,7 +11,7 @@ Module 4 - Basic Sensing
 
 Module 5 - Advanced Sensing
 
-Module 6 - 
+Module 6 - Advanced Robotics Techniques to Explore
 
 Module 7 - 
 
