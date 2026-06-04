@@ -19,4 +19,4 @@ Module 8 - State Localization, Mapping, and Motion Planning
 
 Module 9 - Computer Vision for Object Detection
 
-Module 10 - 
+Module 10 - Autonomous Driving with Computer Vision
