@@ -15,7 +15,7 @@ Module 6 - Advanced Robotics Techniques to Explore
 
 Module 7 - Robotic Perception and Control
 
-Module 8 - 
+Module 8 - State Localization, Mapping, and Motion Planning
 
 Module 9 - 
 
