@@ -4,3 +4,5 @@ This repository contains the Jupyter Notebooks to be used alongside the Robotics
 Module 1 - Differential Drive Robots
 
 Module 2 - Power Electronics
+
+Module 3 - Basic Motion
